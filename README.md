@@ -2,7 +2,7 @@
 
 ---
 This project involves the creation and deployment of an ERC721A-compliant NFT (Non-Fungible Token)
-contract named MetaTokenNFT on Goerli Ethereum testnet then approve and deposit the NFT to Polygon
+contract named RobotsNFT on Goerli Ethereum testnet then approve and deposit the NFT to Polygon
 Mumbai using their fxPortal bridge. The NFTs represent a collection of futuristic electric car with glowing accents, flying through a neon-lit city, each featuring
 a distinct artistic style and angle.
 
